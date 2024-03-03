@@ -16,7 +16,7 @@ Reel It In is a top-down grid-based arcade-style game in which you control a fis
 ## Installation and Usage
 
 1. Clone the repo: `git clone https://github.com/Tokeley/Reel-It-In.git`
-2. Make sure Junit5 or above is installed and assertions are enabled
+2. Make sure JUnit5 or above is installed and assertions are enabled
 3. Run main method located in: nz/ac/wgtn/swen225/lc/app/main/Main.java\
 
 ## To play game:
