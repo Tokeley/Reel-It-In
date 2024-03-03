@@ -1,12 +1,23 @@
 # Reel It In
 
-SWEN225 Group Project
+Reel It In is a top-down grid-based arcade-style game in which you control a fishing boat. Your goal is to catch all the fish and return them to the dock to allow you through to the whirlpool portal that teleports you to the next level. 
 
-Reel It In is a top-down grid-based arcade style game in which you control a fishing boat. Your goal is to catch all the fish and return them to the dock to allow you through to the whirlpool portal that teleports you to the next level. 
+## Table of Contents
+- [Demo](#demo)
+- [Installation and Usage](#installation-and-usage)
+- [To play game](#to-play-game)
+- [Contorls](#controls)
+- [Software Design Principles](#software-design-principles)
+- [Contributors](#contributors)
 
-## To run game:
-Run main method located in: nz/ac/wgtn/swen225/lc/app/main/Main.java\
-**Important:** Please make sure to enable Java assertions before running the program! To do this, add `-ea` to the VM options.
+## Demo
+![Reel it in GIF](demo.gif)
+
+## Installation and Usage
+
+1. Clone the repo: `git clone https://github.com/Tokeley/Reel-It-In.git`
+2. Make sure Junit5 or above is installed and assertions are enabled
+3. Run main method located in: nz/ac/wgtn/swen225/lc/app/main/Main.java\
 
 ## To play game:
 To move the boat use arrow keys or W, A, S and D. Collect keys of door colours to unlock doors of that colour and avoid enemy boats. The game also has record and replay capabilities. Press “Record” to start recording the game, press “Load recorded game” to load in a recorded game and use “Step by step” or “Auto replay” to go through a recorded game. 
@@ -21,5 +32,10 @@ SPACE - pause the game and display a “game is paused” dialog
 ESC - close the “game is paused” dialog and resume the game
 UP, DOWN, LEFT, RIGHT ARROWS (W, A , S, D)  -- move Boat within the maze
 
+## Contributors
+
+- Tokeley ([@tokeley](https://github.com/tokeley))
+- SlazengerV100 ([@slazengerv100](https://github.com/slazengerv100))
+- MathiasSCode ([@mathiasscode](https://github.com/mathiasscode))
 
 
