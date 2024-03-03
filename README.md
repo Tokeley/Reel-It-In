@@ -1,4 +1,4 @@
-# Reel It In
+# Reel It In ⛵
 
 Reel It In is a top-down grid-based arcade-style game in which you control a fishing boat. Your goal is to catch all the fish and return them to the dock to allow you through to the whirlpool portal that teleports you to the next level. This repo holds the Java source code.
 
